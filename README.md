@@ -1,3 +1,9 @@
+Below are some key screenshots of the JobMatch project showcasing major features and UI of the platform from both the **Job Seeker** and **Employer** perspectives.
+
+
+
+
+
 Register Page 
 
 
